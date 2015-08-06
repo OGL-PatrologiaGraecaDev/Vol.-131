@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/131/hvd.32044019208263/686.png"; bbox 0 0 3960 6602; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 60 6559 347 6586">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 60 6559 347 6586">
+     <span class='ocr_line' id='line_1_1' title="bbox 60 6559 347 6586; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 60 6562 63 6563; x_wconf 59' lang='grc'><strong><em>⁷</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 80 6559 347 6586; x_wconf 51' lang='lat' dir='ltr'><strong><em>mm&quot;</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 596 6572 693 6584">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 596 6572 693 6584">
+     <span class='ocr_line' id='line_1_2' title="bbox 596 6572 693 6584; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 596 6572 693 6584; x_wconf 58' lang='grc' dir='ltr'><strong><em>-ιΔ-ΑΔ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 824 6550 1052 6582">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 824 6550 1052 6582">
+     <span class='ocr_line' id='line_1_3' title="bbox 824 6550 1052 6582; baseline -0.009 -1"><span class='ocrx_word' id='word_1_4' title='bbox 824 6550 1009 6582; x_wconf 62' lang='lat' dir='ltr'><strong><em>.m</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1018 6550 1052 6579; x_wconf 60' lang='grc' dir='ltr'><strong>Ἀ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1546 6542 2001 6579">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1546 6542 2001 6579">
+     <span class='ocr_line' id='line_1_4' title="bbox 1546 6542 2001 6579; baseline 0.007 -7"><span class='ocrx_word' id='word_1_6' title='bbox 1546 6563 1555 6572; x_wconf 64' lang='grc' dir='ltr'><strong>ς</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1597 6566 1607 6579; x_wconf 75' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1632 6543 1641 6549; x_wconf 74' lang='grc'><em>”</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
